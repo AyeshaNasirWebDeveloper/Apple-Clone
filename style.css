@@ -1,0 +1,54 @@
+.cos{
+  background-color: black !important;
+}
+
+.na{
+color: black !important;
+}
+
+.nav-bar{
+  text-decoration: none !important;
+}
+
+#video-container {
+  
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+#banner-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.pro{
+  color: azure !important;
+  cursor: pointer;
+}
+
+.image{
+background-size: cover !important;
+  width: 100% !important;
+}
+
+.bac{
+  background-color: #F5F5F7;
+}
+
+.ls{
+  background-color: black;
+}
+
+.rs{
+  background-color: #F5F5F7 !important;
+}
+
+.sh{
+  font-size: 1.2rem;
+}
+
+.ris{
+  background-color: rgb(251,251,253) !important ;
+}
